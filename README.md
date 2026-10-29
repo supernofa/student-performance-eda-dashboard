@@ -56,7 +56,9 @@ Developed a Streamlit dashboard featuring:
 - Academic, lifestyle, background, and previous-grade comparisons.
 - Key findings and interpretations.
   
-##Dashboard Preview
+## Dashboard Preview
+
+
 <img width="777" height="511" alt="image" src="https://github.com/user-attachments/assets/f10e1791-a3ec-4900-86f1-ab735ac516d7" />
 
 
