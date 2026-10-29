@@ -80,7 +80,7 @@ Overall, the selected academic factors generally showed stronger individual asso
 2. Install the required libraries:
 
    ```bash
-   pip install streamlit pandas plotly
+   pip install -r requirements.txt
    ```
 
 3. Run the Streamlit application:
