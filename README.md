@@ -1,5 +1,9 @@
 # Student Performance Analysis & Dashboard
 
+### Live Dashboard
+
+[Explore the Interactive Dashboard](YOUR_STREAMLIT_URL)
+
 ## Project Overview
 
 This project explores the relationship between students' academic performance and various academic, lifestyle, and background factors using Exploratory Data Analysis (EDA) and an interactive Streamlit dashboard.
