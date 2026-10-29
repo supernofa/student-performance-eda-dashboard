@@ -56,6 +56,9 @@ Developed a Streamlit dashboard featuring:
 - Academic, lifestyle, background, and previous-grade comparisons.
 - Key findings and interpretations.
 
+- <img width="777" height="511" alt="image" src="https://github.com/user-attachments/assets/f10e1791-a3ec-4900-86f1-ab735ac516d7" />
+
+
 ## Key Findings
 
 - **Previous academic failures** showed the strongest negative correlation with final grades among the selected academic and lifestyle factors (Spearman r = -0.448).
@@ -93,7 +96,6 @@ Make sure `student_performance_clean.csv` is in the same directory as `app.py`.
 | `app.py` | Interactive Streamlit dashboard |
 | `student-por.csv` | Original Portuguese student performance dataset |
 | `student_performance_clean.csv` | Validated dataset used by Streamlit |
-| `Student_Performance_EDA_Report.pdf` | Final project report |
 
 ## Dataset Reference
 
