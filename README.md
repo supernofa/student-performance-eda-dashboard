@@ -2,7 +2,7 @@
 
 ### Live Dashboard
 
-[Explore the Interactive Dashboard](YOUR_STREAMLIT_URL)
+[Explore the Interactive Dashboard](https://student-performance-eda-dashboard.streamlit.app/)
 
 ## Project Overview
 
