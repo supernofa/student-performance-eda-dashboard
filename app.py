@@ -25,8 +25,8 @@ h1, h2, h3 { color: #36574B !important; }
 </style>
 ''', unsafe_allow_html=True)
 
-st.title('Are Academic Factors or Lifestyle Factors More Strongly Associated With Students' Final Grades?''')
-st.write('Exploring academic, lifestyle, and background factors related to final Portuguese grades.')
+st.title('Are Academic Factors or Lifestyle Factors More Strongly Associated With Students Final Grades?')
+st.write('Exploring academic, lifestyle, and background factors related to final grades.')
 
 @st.cache_data
 def load_data():
